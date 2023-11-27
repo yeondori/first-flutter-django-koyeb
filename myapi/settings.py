@@ -27,8 +27,6 @@ SECRET_KEY = os.environ.get("DJANGO_SECRET_KEY", "django-insecure-#&a$axts48nm8_
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-
-
 # Application definition
 
 INSTALLED_APPS = [
